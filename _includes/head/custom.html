@@ -1,0 +1,15 @@
+{% if page.layout == 'single' %}
+    {% assign posts=site.posts | where:"i18n-link", page.i18n-link | sort: 'lang' %}
+    {% if posts.size == 0 %}
+        {% assign posts=site.pages | where:"i18n-link", page.i18n-link | sort: 'lang' %}
+    {% endif %}
+    {% if posts.size > 1 %}
+        {% for post in posts %}
+            <link rel="alternate" hreflang="{{post.lang}}" href="{{ site.base-url}}{{ post.url }}" />
+        {% endfor %}
+    {% endif %}
+{% endif %}
+
+{% if page.layout == 'home' %}
+    {% assign posts = site.posts | where:"lang", page.lang %}
+{% endif %}
