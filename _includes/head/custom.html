@@ -1,0 +1,6 @@
+{% if page.title %}
+    {% capture title %}{% translate page.title %}{% endcapture %}
+    {% if title == ""%}
+        {% capture title %}{{ page.title }}{% endcapture %}
+    {% endif %}
+{% endif %}
