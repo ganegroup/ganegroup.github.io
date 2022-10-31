@@ -19,17 +19,16 @@
                  if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title[include.locale] }}</a>
             </li>
           {%- endfor -%}
-          {% case include.locale %}
-            {% when 'en' %}
-              <li class="masthead__menu-item">
-                <a href="{{ include.url | prepend: 'es' | relative_url }}" title="Cambiar a idioma español">Español</a>
-              </li>
-            {% when 'es' %}
-              <li class="masthead__menu-item">
-                <a href="{{ include.url | replace_first: '/es/', '/' | relative_url }}" title="Switch language to English">English</a>
-              </li>
-          {% endcase %}
         </ul>
+
+        {% case include.locale %}
+            {% when 'en' %}
+                <a href="{{ include.url | prepend: 'es' | relative_url }}"
+                   title="Cambiar a idioma español" class="btn btn--info"><i class='fas fa-fw fa-globe'></i> Español</a>
+            {% when 'es' %}
+                <a href="{{ include.url | replace_first: '/es/', '/' | relative_url }}" title="Switch language to English" class="btn btn--info"><i class='fas fa-fw fa-globe'></i> English</a>
+        {% endcase %}
+
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[include.locale].search_label | default: "Toggle search"

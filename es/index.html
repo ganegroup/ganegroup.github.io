@@ -74,4 +74,10 @@ feature_row4:
 lang: es
 ---
 
-{% include feature_row %}
+{% assign posts = site.posts | where:"locale", page.locale %}
+
+<div class="grid__wrapper">
+  {% for post in posts limit:3 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>

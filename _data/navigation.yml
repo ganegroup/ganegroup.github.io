@@ -1,17 +1,25 @@
 main:
   - title:
-        en: "Posts"
-        es: "Posteos"
-    url: posts/
+        en: "News"
+        es: "Novedades"
+    url: news/
   - title:
-        en: "Categories"
-        es: "Categorias"
-    url: categories/
+        en: "Research"
+        es: "Investigación"
+    url: research/
   - title:
-        en: "Tags"
-        es: "Tags"
-    url: tags/
+        en: "People"
+        es: "Miembros"
+    url: people/
   - title:
-        en: "About"
-        es: "Acerca"
-    url: about/
+        en: "Contact"
+        es: "Contacto"
+    url: "#contact"
+
+research_en:
+    - title: "Research Area 1"
+      url: /research/#research-area-1
+    - title: "Research Area 2"
+      url: /research/#research-area-2
+    - title: "Research Area 3"
+      url: /research/#research-area-3
