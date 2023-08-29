@@ -33,7 +33,21 @@ Pages are located in the `_pages` folder, while posts are located in the `_posts
 
 ## Creating new pages
 
+Pages are located in the `_pages` folder and can have any filename. You can add a [Front Matter](https://jekyllrb.com/docs/front-matter/) block with extra information such as title and layout
+
 ## Creating new blog entries
 
+Blog entries are located in the `_posts` folder and their filename must use the following format: 
+
+```
+YEAR-MONTH-DAY-title.md
+```
+
+You can add a [Front Matter](https://jekyllrb.com/docs/front-matter/) block with extra information such as title, date, layout, category and tags
+
 ## Creating dual-language content
+
+To create a translated entry create a file with the same filename as the original entry, but located under the `es/_pages` folder if it is a page or `es/_posts` if it is a post.
+
+
 
