@@ -1,11 +1,12 @@
 ---
-title: Research
-permalink: /research.html
+title: Investigación
+permalink: es/research
 sidebar:
-    nav: research_en
+    nav: research_es
 ---
 
-## Research Area 1
+
+## Area de investigación 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla odio vitae mi consectetur sollicitudin. Ut purus odio, placerat at ullamcorper ornare, faucibus quis dui. Cras porttitor nibh at sem consequat porta pretium vel turpis. Aliquam non pulvinar erat, non dictum nibh. Maecenas convallis elit id facilisis ultrices. Sed tincidunt erat ex, sed tristique est malesuada quis. Sed accumsan elementum mattis. Aliquam eget lacinia ex, ac ultricies quam. Fusce convallis ipsum purus, eu lacinia nulla tristique et. Fusce vel efficitur ex, et lobortis diam. Cras eget porta tellus. Sed viverra sollicitudin eros, sed mollis lacus suscipit sed.
 
@@ -17,7 +18,7 @@ Nulla purus mauris, finibus nec ex sed, placerat sagittis magna. Praesent vitae 
 
 Mauris consectetur sem id libero egestas volutpat. Nam consequat aliquam luctus. Integer eget elit vehicula, tincidunt eros vitae, egestas velit. Phasellus vestibulum condimentum mi, eu auctor mauris congue dictum. Ut turpis ligula, aliquet ut tristique id, iaculis non leo. Donec quis consequat quam. Donec sodales rhoncus nisl ac gravida. Donec ac massa sed risus malesuada mattis molestie nec dolor. Morbi non viverra lacus. Donec condimentum semper cursus. Aliquam at urna at enim ornare scelerisque nec eget massa. Proin volutpat ornare erat. Nunc convallis, libero in interdum lacinia, ipsum erat ullamcorper lacus, sed bibendum mauris sem ac nunc. Praesent tincidunt cursus lacus eget ultricies.
 
-## Research Area 2
+## Area de investigación 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla odio vitae mi consectetur sollicitudin. Ut purus odio, placerat at ullamcorper ornare, faucibus quis dui. Cras porttitor nibh at sem consequat porta pretium vel turpis. Aliquam non pulvinar erat, non dictum nibh. Maecenas convallis elit id facilisis ultrices. Sed tincidunt erat ex, sed tristique est malesuada quis. Sed accumsan elementum mattis. Aliquam eget lacinia ex, ac ultricies quam. Fusce convallis ipsum purus, eu lacinia nulla tristique et. Fusce vel efficitur ex, et lobortis diam. Cras eget porta tellus. Sed viverra sollicitudin eros, sed mollis lacus suscipit sed.
 
@@ -29,7 +30,7 @@ Nulla purus mauris, finibus nec ex sed, placerat sagittis magna. Praesent vitae 
 
 Mauris consectetur sem id libero egestas volutpat. Nam consequat aliquam luctus. Integer eget elit vehicula, tincidunt eros vitae, egestas velit. Phasellus vestibulum condimentum mi, eu auctor mauris congue dictum. Ut turpis ligula, aliquet ut tristique id, iaculis non leo. Donec quis consequat quam. Donec sodales rhoncus nisl ac gravida. Donec ac massa sed risus malesuada mattis molestie nec dolor. Morbi non viverra lacus. Donec condimentum semper cursus. Aliquam at urna at enim ornare scelerisque nec eget massa. Proin volutpat ornare erat. Nunc convallis, libero in interdum lacinia, ipsum erat ullamcorper lacus, sed bibendum mauris sem ac nunc. Praesent tincidunt cursus lacus eget ultricies.
 
-## Research Area 3
+## Area de investigación 3
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla odio vitae mi consectetur sollicitudin. Ut purus odio, placerat at ullamcorper ornare, faucibus quis dui. Cras porttitor nibh at sem consequat porta pretium vel turpis. Aliquam non pulvinar erat, non dictum nibh. Maecenas convallis elit id facilisis ultrices. Sed tincidunt erat ex, sed tristique est malesuada quis. Sed accumsan elementum mattis. Aliquam eget lacinia ex, ac ultricies quam. Fusce convallis ipsum purus, eu lacinia nulla tristique et. Fusce vel efficitur ex, et lobortis diam. Cras eget porta tellus. Sed viverra sollicitudin eros, sed mollis lacus suscipit sed.
 

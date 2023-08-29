@@ -23,3 +23,11 @@ research_en:
       url: /research/#research-area-2
     - title: "Research Area 3"
       url: /research/#research-area-3
+
+research_es:
+    - title: "Research Area 1"
+      url: /es/research/#area-de-investigación-1
+    - title: "Research Area 2"
+      url: /es/research/#area-de-investigación-2
+    - title: "Research Area 3"
+      url: /es/research/#area-de-investigación-3
