@@ -17,11 +17,11 @@ main:
     url: "#contact"
 
 research_en:
-    - title: "Research Area 1"
+    - title: "Galaxy Formation"
       url: /research/#research-area-1
-    - title: "Research Area 2"
+    - title: "Stars and Compact Objects"
       url: /research/#research-area-2
-    - title: "Research Area 3"
+    - title: "Cosmology"
       url: /research/#research-area-3
 
 research_es:
