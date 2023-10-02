@@ -8,6 +8,10 @@ main:
         es: "Investigación"
     url: research/
   - title:
+        en: "Publications"
+        es: "Publicaciones"
+    url: publications/
+  - title:
         en: "People"
         es: "Miembros"
     url: people/
@@ -19,7 +23,7 @@ main:
 research_en:
     - title: "Galaxy Formation"
       url: /research/#research-area-1
-    - title: "Stars and Compact Objects"
+    - title: "Feedback: Binary Stars and Compact Objects"
       url: /research/#research-area-2
     - title: "Cosmology"
       url: /research/#research-area-3

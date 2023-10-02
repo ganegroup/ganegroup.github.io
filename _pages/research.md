@@ -12,7 +12,7 @@ Numerical simulations are a powerful tool to study the formation and evolution o
 
 Currently, we are involved in different projects related to the formation and evolution of the structure in the Universe by using Hydrodynamical cosmological simulations based on the SPH technique.
 
-## Stars and Compact Objects
+## Feedback: Binary Stars and Compact Objects
 
 The Stars and Compact Objects develops the theoretical framework and computational methods needed to study the life and death of stars, as well as the astrophysics of neutron stars and black holes.
 
