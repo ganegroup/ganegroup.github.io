@@ -1,27 +1,53 @@
-# Minimal Mistakes remote theme starter
+# G.A.N.E webpage
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+The website is based on [GitHub pages](https://pages.github.com/) wich in turns uses the [Jekyll](https://jekyllrb.com/), a static website generator that transforms plain text files into static websites and blogs.
 
-Contains basic configuration to get you a site with:
+The website theme is based on [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Local Development
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+While it is possible to edit the website directly from the GitHub web interface, it is recommended to first preview the changes in a local copy of the repository. 
 
----
+To set up a local development environment, follow this steps:
 
-## Troubleshooting
+1. Install [Docker](https://docs.docker.com/desktop/install/ubuntu/)
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+2. Clone this repository
+```bash
+git clone git@github.com:ganegroup/ganegroup.github.io.git
+```
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+3. Start the docker container with the Jekyll development server
+```bash
+docker compose up
+```
+
+4. Navigate to http://0.0.0.0:4000 to preview changes
+
+
+## Site structure
+
+The site has two types of entries: pages and posts. Pages are largely standalone and static, used to communicate slow or permanent information. Posts, on the other hand are used to cummunicate transient or time-dependant information, like news. 
+
+Pages are located in the `_pages` folder, while posts are located in the `_posts` folder
+
+## Creating new pages
+
+Pages are located in the `_pages` folder and can have any filename. You can add a [Front Matter](https://jekyllrb.com/docs/front-matter/) block with extra information such as title and layout
+
+## Creating new blog entries
+
+Blog entries are located in the `_posts` folder and their filename must use the following format: 
+
+```
+YEAR-MONTH-DAY-title.md
+```
+
+You can add a [Front Matter](https://jekyllrb.com/docs/front-matter/) block with extra information such as title, date, layout, category and tags
+
+## Creating dual-language content
+
+To create a translated entry create a file with the same filename as the original entry, but located under the `es/_pages` folder if it is a page or `es/_posts` if it is a post.
+
+
+
