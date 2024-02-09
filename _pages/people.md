@@ -9,7 +9,7 @@ sidebar:
 <p align="left">
 <img src="/assets/images/foto_Susana.jpg"  width="200" height="90">
 </p>
-Dr. Susana Pedroa
+Dr. Susana Pedrosa
 
 I am a researcher at the Institute for Astronomy and Space Physics, University of Buenos Aires/CONICET, specializing in the physics processes underlying the formation and evolution of galaxies. My primary approach involves numerical simulations. Presently, I co-lead the Numerical Astrophysics and Extragalactic Group. Additionally, I am an advocate for the role women in science and gender equality. I also derive great enjoyment from and place value on science popularization activities.
 
