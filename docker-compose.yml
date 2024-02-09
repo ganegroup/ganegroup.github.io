@@ -2,7 +2,7 @@
 version: "3.9"
 services:
   jekyll:
-    image: jekyll/jekyll:3.9.3
+    image: jekyll/jekyll:4.2.0
     command: jekyll serve --drafts
     ports:
       - 4000:4000
