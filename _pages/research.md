@@ -1,6 +1,6 @@
 ---
 title: Research
-permalink: /research.html
+permalink: /research
 sidebar:
     nav: research_en
 ---
