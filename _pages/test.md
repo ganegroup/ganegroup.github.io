@@ -1,6 +1,6 @@
 ---
 title: test
-permalink: /test.html
+permalink: /test
 ---
 
 ## Subtitulo
