@@ -57,7 +57,7 @@ Lautaro Carvalho joined the Institute of Astronomy and Space Physics (IAFE) in 2
 ## Undergraduate Students:
 
 <p align="left">
-<img src="/assets/images/Foto_Joe.jpg"  width="200" height="90">
+<img src="/assets/images/Foto_Joe.jpeg"  width="200" height="90">
 </p>
 
 José Castagnino
