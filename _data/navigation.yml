@@ -2,19 +2,19 @@ main:
   - title:
         en: "News"
         es: "Novedades"
-    url: news/
+    url: news.html/
   - title:
         en: "Research"
         es: "Investigación"
-    url: research/
+    url: research.html/
   - title:
         en: "Publications"
         es: "Publicaciones"
-    url: publications/
+    url: publications.html/
   - title:
         en: "People"
         es: "Miembros"
-    url: people/
+    url: people.html/
   - title:
         en: "Contact"
         es: "Contacto"
