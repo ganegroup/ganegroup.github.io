@@ -1,6 +1,6 @@
 ---
 title: People
-permalink: /people.html
+permalink: /people
 sidebar:
     nav: people_en
 ---
