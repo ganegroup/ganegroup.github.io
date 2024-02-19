@@ -92,12 +92,3 @@ He's an applied math student with extensive background as a software developer b
 
 
 ##   Colaborations:
-Dr. María Celeste Artale
-
-<<<<<<< HEAD
-Dr. Elisa Chisari?
-=======
-Dr. Patricia Tissera
-
-Dr. Elisa Chisari
->>>>>>> d5ec3e2 (cambios 19.2)

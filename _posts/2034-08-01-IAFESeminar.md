@@ -1,5 +1,5 @@
 ---
-title: "Seminar of GANE at IAFE"
+title: "Seminar of GANE group at IAFE"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog

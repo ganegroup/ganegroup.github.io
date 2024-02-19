@@ -44,13 +44,8 @@ effects.
 
 ## Cosmology
 
-<<<<<<< HEAD
-The Astronomical Data group develops and maintains advanced tools for the astrophysics community, especially ones for building probabilistic models and making precise measurements. It builds these tools by carrying out in-house data analysis projects that answer important scientific questions.
-=======
 <p align="center">
 <img src="/assets/images/CMB.jpeg"  width="200" height="90">
 </p>
 
-
 The Astronomical Data group develops and maintains advanced tools for the astrophysics community, especially ones for building probabilistic models and making precise measurements. It builds these tools by carrying out in-house data analysis projects that answer important scientific questions.
->>>>>>> d5ec3e2 (cambios 19.2)
