@@ -17,7 +17,7 @@ I am a researcher at the Institute for Astronomy and Space Physics, University o
 <img src="/assets/images/foto_Leo.jpg"  width="200" height="90">
 </p>
 
-Dr. Leonardo Pelliza
+Dr. Leonardo Pellizza
 
 Leonardo J. Pellizza (b. 1971) is a senior researcher at the National Research Council of Argentina. He earned a M.Sc. in Physics at the University of Buenos
 Aires (1998), and a Ph.D. in Astronomy at the University of La Plata (2003). He worked as a postdoc in the Commissariat à l'Énergie Atomique (Saclay, France),
@@ -75,7 +75,7 @@ Ci vediamo!
 
 Lic. Lautaro Carvalho
 
-Lautaro Carvalho joined the Institute of Astronomy and Space Physics (IAFE) in 2023 as a Ph.D. student under the direction of Dr. Leonardo Pelliza. He's currently working on numerical simulations of the early Universe, analyzing the effects of Cosmic Rays on the Intergalactic Medium during the Cosmic Dawn and how they may have contributed to the reionization Universe.
+Lautaro Carvalho joined the Institute of Astronomy and Space Physics (IAFE) in 2023 as a Ph.D. student under the direction of Dr. Leonardo Pellizza. He's currently working on numerical simulations of the early Universe, analyzing the effects of Cosmic Rays on the Intergalactic Medium during the Cosmic Dawn and how they may have contributed to the reionization Universe.
 
 ## Undergraduate Students:
 
