@@ -16,13 +16,14 @@ main:
         es: "Miembros"
     url: people/
   - title:
+        en: "Workshop"
+        es: "Talleres"
+    url: workshop/    
+  - title:
         en: "Contact"
         es: "Contacto"
     url: "#contact"
-  - title:
-        en: "Workshop"
-        es: "Talleres"
-    url: workshops/
+
 
 research_en:
     - title: "Galaxy Formation"
@@ -39,3 +40,9 @@ research_es:
       url: /es/research/#area-de-investigación-2
     - title: "Research Area 3"
       url: /es/research/#area-de-investigación-3
+
+workshop_en:
+    - title: "Workshop on Massive stars and Interacting Binaries"
+      url: /workshop/Workshop_on_Massive_stars
+    - title: "1st. SEVN School on Binary Population Synthesis"
+      url: /workshop/SEVN_School
