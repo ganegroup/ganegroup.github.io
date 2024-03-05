@@ -19,6 +19,10 @@ main:
         en: "Contact"
         es: "Contacto"
     url: "#contact"
+  - title:
+        en: "Workshop"
+        es: "Talleres"
+    url: workshops/
 
 research_en:
     - title: "Galaxy Formation"
