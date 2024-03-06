@@ -58,7 +58,7 @@ S.Pedrosa (Institute for Astronomy and Space Science)
 F. Mirabel (Institute for Astronomy and Space Science)
 G.E. Romero (Argentine Institute of Radioastronomy)
 P. Benaglia (Argentine Institute of Radioastronomy)
-P. Tissera (Institute for Astronomy and Space Science)
+P. Tissera (Pontificia Universidad Católica)
 
 Invited talks
 G. Costa (Centre de Recherche Astrophysique de Lyon)
