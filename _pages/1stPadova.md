@@ -52,30 +52,19 @@ Edificio IAFE, Ciudad Universitaria, Buenos Aires, Argentina
 
 <ins>Invited plenary speakers:</ins>
 
-G. Iorio
+Invited plenary speakers:
+G. Iorio (Univeristy of Padova)
+S.Pedrosa (Institute for Astronomy and Space Science)
+F. Mirabel (Institute for Astronomy and Space Science)
+G.E. Romero (Argentine Institute of Radioastronomy)
+P. Benaglia (Argentine Institute of Radioastronomy)
+P. Tissera (Institute for Astronomy and Space Science)
 
-S.E. Pedrosa
-
-F. Mirabel
-
-G.E. Romero
-
-P. Benaglia
-
-P. Tissera
-
-G. Costa
-
-J. Combi (TBC)
-
-M. Bersten (TBC)
-
-L. Suad (TBC)
-
-S. Cichowolski (TBC)
-
-O. Benvenuto (TBC)
-
-A. De Vito (TBC)
-
-M. Mapelli (TBC)
+Invited talks
+G. Costa (Centre de Recherche Astrophysique de Lyon)
+F. Ursini (University of Roma Tre)
+M. Dall'Amico (University of Padova)
+B. Mestichelli (Gran Sasso Science Institute - GSSI)
+L. Bignone (Institute for Astronomy and Space Science)
+P. Cataldi (Institute for Astronomy and Space Science)
+L. Carvalho (Institute for Astronomy and Space Science)
