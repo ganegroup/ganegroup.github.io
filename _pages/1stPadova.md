@@ -25,13 +25,13 @@ The Workshop aims to bring together researchers working in binary population syn
 <ins>Organizing Committee:</ins>
 
 
-Gastón J. Escobar (University of Padova, co-chair)
+Gastón J. Escobar (University of Padova, co-chair, Italy)
 
-Giuliano Iorio (University of Padova)
+Giuliano Iorio (University of Padova, Italy)
 
-Leonardo J. Pellizza (IAFE, co-chair)
+Leonardo J. Pellizza (Institute for Astronomy and Space Science, co-chair, Argentina)
 
-Susana E. Pedrosa (IAFE)
+Susana E. Pedrosa (Institute for Astronomy and Space Science, Argentina)
 
 
 <ins>Dates:</ins>
@@ -52,19 +52,32 @@ Edificio IAFE, Ciudad Universitaria, Buenos Aires, Argentina
 
 <ins>Invited plenary speakers:</ins>
 
-Invited plenary speakers:
-G. Iorio (Univeristy of Padova)
-S.Pedrosa (Institute for Astronomy and Space Science)
-F. Mirabel (Institute for Astronomy and Space Science)
-G.E. Romero (Argentine Institute of Radioastronomy)
-P. Benaglia (Argentine Institute of Radioastronomy)
-P. Tissera (Pontificia Universidad Católica)
 
-Invited talks
-G. Costa (Centre de Recherche Astrophysique de Lyon)
-F. Ursini (University of Roma Tre)
-M. Dall'Amico (University of Padova)
-B. Mestichelli (Gran Sasso Science Institute - GSSI)
-L. Bignone (Institute for Astronomy and Space Science)
-P. Cataldi (Institute for Astronomy and Space Science)
-L. Carvalho (Institute for Astronomy and Space Science)
+G. Iorio (Univeristy of Padova, Italy)
+
+S.Pedrosa (Institute for Astronomy and Space Science, Argentina)
+
+F. Mirabel (Institute for Astronomy and Space Science, Argentina)
+
+G.E. Romero (Argentine Institute of Radioastronomy, Argentina)
+
+P. Benaglia (Argentine Institute of Radioastronomy, Argentina)
+
+P. Tissera (Pontifical Catholic University, Chile)
+
+
+<ins>Invited talks:</ins>
+
+G. Costa (Centre de Recherche Astrophysique of Lyon, France)
+
+F. Ursini (University of Roma Tre, Italy)
+
+M. Dall'Amico (University of Padova, Italy)
+
+B. Mestichelli (Gran Sasso Science Institute , Italy)
+
+L. Bignone (Institute for Astronomy and Space Science, Argentina)
+
+P. Cataldi (Institute for Astronomy and Space Science, Argentina)
+
+L. Carvalho (Institute for Astronomy and Space Science, Argentina)
