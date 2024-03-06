@@ -51,36 +51,5 @@ Institute for Astronomy and Space Physics
 Edificio IAFE, Ciudad Universitaria, Buenos Aires, Argentina
 
 
-<ins>Invited plenary speakers and lecturers:</ins>
-
-G. Iorio
-
-S.E. Pedrosa
-
-F. Mirabel
-
-G.E. Romero
-
-P. Benaglia
-
-P. Tissera
-
-G. Costa
-
-J. Combi (TBC)
-
-M. Bersten (TBC)
-
-L. Suad (TBC)
-
-S. Cichowolski (TBC)
-
-O. Benvenuto (TBC)
-
-A. De Vito (TBC)
-
-M. Mapelli (TBC)
-
-
 
 
