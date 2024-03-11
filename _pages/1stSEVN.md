@@ -53,7 +53,6 @@ Institute for Astronomy and Space Physics
 Edificio IAFE, Ciudad Universitaria, Buenos Aires, Argentina
 
 
-<ins> School program:</ins>
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSct7iZIgFMnhxEyECetaleJgiUvA5YEVLXmOKFVk4I4NQeFjg/viewform)
 
