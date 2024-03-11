@@ -49,6 +49,7 @@ Institute for Astronomy and Space Physics
 
 Edificio IAFE, Ciudad Universitaria, Buenos Aires, Argentina
 
+To maintain the number of people to a reasonable size to foster dialog this workshop is by invitation only. There is no registration fee.
 
 <ins>Invited plenary speakers:</ins>
 
