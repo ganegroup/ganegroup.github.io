@@ -23,16 +23,9 @@ April 29 to May 3
 
 [See more](/workshop/Workshop_on_Massive_stars)
 
-<p align="left">
-<img src="/assets/images/iafe.jpeg"  width="200" height="90">
-</p>
 
 <p align="center">
 <img src="/assets/images/schoolSEVN.jpg"  width="200" height="90">
-</p>
-
-<p align="right">
-<img src="/assets/images/padua.jpeg"  width="200" height="90">
 </p>
 
 ## 1st. SEVN School on Binary Population Synthesis
