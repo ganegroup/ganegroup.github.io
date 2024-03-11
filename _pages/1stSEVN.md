@@ -50,6 +50,12 @@ Edificio IAFE, Ciudad Universitaria, Buenos Aires, Argentina
 
 <ins> School program:</ins>
 
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSct7iZIgFMnhxEyECetaleJgiUvA5YEVLXmOKFVk4I4NQeFjg/viewform)
+
+
+
+<ins> School program:</ins>
+
 |      			   			 		     |                 			Monday  			 May 6 		                |             			Wednesday  			 May 8 		           |  			Thursday  			 May 9 		 |   			Friday  			 May 10 		  |
 |:-------------:|:----------------------------------------------:|:----------------------------------------:|:------------------:|:-------------------:|
 |  			10:00-10:30 		 |                 			Installing SEVN 		               |                    			   			 		                  |         			   			 		       |         			   			 		        |
