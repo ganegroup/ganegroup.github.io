@@ -8,7 +8,7 @@ sidebar:
 
 
 <p align="center">
-<img src="/assets/images/Binary.jpg"  width="200" height="90">
+<img src="/assets/images/schoolSEVN.jpg"  width="200" height="90">
 </p>
 ## Rationale
 
