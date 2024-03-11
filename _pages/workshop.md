@@ -25,7 +25,7 @@ April 29 to May 3
 
 
 <p align="center">
-<img src="/assets/images/schoolSEVN.jpg"  width="200" height="90">
+<img src="/assets/images/schoolSEVN.jpg"  width="400" height="150">
 </p>
 
 ## 1st. SEVN School on Binary Population Synthesis
