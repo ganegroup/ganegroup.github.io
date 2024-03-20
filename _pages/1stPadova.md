@@ -51,34 +51,59 @@ Edificio IAFE, Ciudad Universitaria, Buenos Aires, Argentina
 
 To maintain the number of people to a reasonable size to foster dialog this workshop is by invitation only. There is no registration fee.
 
-<ins>Invited plenary speakers:</ins>
+<ins>Plenary speakers:</ins>
 
 
-G. Iorio (Univeristy of Padova, Italy)
+G. Iorio (Univeristy of Padova)
 
-S.Pedrosa (Institute for Astronomy and Space Science, Argentina)
+S. Pedrosa (Institute for Astronomy and Space Physics, Argentina)
 
-F. Mirabel (Institute for Astronomy and Space Science, Argentina)
+I.F. Mirabel (Institute for Astronomy and Space Physics, Argentina)
 
-G.E. Romero (Argentine Institute of Radioastronomy, Argentina)
+G.E. Romero (Argentine Institute for Radioastronomy)
 
-P. Benaglia (Argentine Institute of Radioastronomy, Argentina)
+P. Benaglia (Argentine Institute for Radioastronomy)
 
-P. Tissera (Pontifical Catholic University, Chile)
+O. Benvenuto (Institute for Astrophysics of La Plata, Argentina)
 
+A. De Vito (Institute for Astrophysics of La Plata, Argentina)
 
-<ins>Invited talks:</ins>
+L. Suad (Institute for Astronomy and Space Science, Argentina)
 
-G. Costa (Centre de Recherche Astrophysique of Lyon, France)
+M. Bersten (Institute for Astrophysics of La Plata, Argentina)
+
+M. Mapelli (Zentrum fuer Astronomie Heidelberg, Germany)
+
+<ins>Talks:</ins>
+
+M. Lecroq (Institut d'Astrophysique de Paris, Sorbonne Université, France)
+
+G. Costa (Centre de Recherche Astrophysique de Lyon, France)
 
 F. Ursini (University of Roma Tre, Italy)
 
 M. Dall'Amico (University of Padova, Italy)
 
-B. Mestichelli (Gran Sasso Science Institute , Italy)
+B. Mestichelli (Gran Sasso Science Institute, Italy)
 
-L. Bignone (Institute for Astronomy and Space Science, Argentina)
+L. Bignone (Institute for Astronomy and Space Physics, Argentina)
 
-P. Cataldi (Institute for Astronomy and Space Science, Argentina)
+P. Cataldi (Institute for Astronomy and Space Physics, Argentina)
 
-L. Carvalho (Institute for Astronomy and Space Science, Argentina)
+L. Carvalho (Institute for Astronomy and Space Physics, Argentina)
+
+P. Tissera (Pontifical Catholic University, Chile)
+
+L. Bartolomeo (Institute for Astrophysics of La Plata, Argentina)
+
+M. Echeveste (Institute for Astrophysics of La Plata, Argentina)
+
+F. Fogantini (Argentine Institute of Radioastronomy)
+
+F. Vivanco (Universidad Andrés Bello, Chile)
+
+L. Abaroa (Argentine Institute of Radioastronomy)
+
+G. Escobar (University of Padova, Italy)
+
+L.J. Pellizza (Institute for Astronomy and Space Physics, Argentina)
