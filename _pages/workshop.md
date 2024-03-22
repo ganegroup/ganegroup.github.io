@@ -23,12 +23,12 @@ April 29 to May 3
 
 [See more](/workshop/Workshop_on_Massive_stars)
 
+## 1st. SEVN School on Binary Population Synthesis
 
 <p align="center">
 <img src="/assets/images/schoolSEVN.jpg"  width="400" height="150">
 </p>
 
-## 1st. SEVN School on Binary Population Synthesis
 
 SEVN (Stellar EVolution for N-body) is a recently developed, updated and public code to compute single and binary population synthesis. Most of the public population-synthesis codes rely on the same models for stellar evolution, which limits the capability to explore the differences and uncertainties that arise from stellar evolution theory. 
 
