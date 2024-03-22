@@ -6,7 +6,7 @@ sidebar:
 ---
 
 <p align="center">
-<img src="/assets/images/Galaxy_SMM_J2135-0102.jpg"  width="200" height="90">
+<img src="/assets/images/flyer_workshop.jpg"  width="200" height="90">
 </p>
 
 ## Rationale

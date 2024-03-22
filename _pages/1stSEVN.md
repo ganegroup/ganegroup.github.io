@@ -71,3 +71,4 @@ Edificio IAFE, Ciudad Universitaria, Buenos Aires, Argentina
 |  			15:30-17:00 		 |                   			Hands-on 1 		                  |                    			   			 		                  |     			Hands-on 4 		    |  			Hands-on + report 		 |
 
 
+This event is organised in the context of the “Giornate CUIA 2024”. The organisers acknowledge financial support  from CUIA and from the European Research Council (ERC Consolidator grant DEMOBLACK under contract no. 770017)   for the project “Studio della formazione ed evoluzione di sistemi stellari massivi nell’Universo nell’ambito di una collaborazione Italo-Argentina”.

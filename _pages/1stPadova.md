@@ -64,6 +64,8 @@ G.E. Romero (Argentine Institute for Radioastronomy)
 
 P. Benaglia (Argentine Institute for Radioastronomy)
 
+P. Tissera (Pontifical Catholic University, Chile)
+
 O. Benvenuto (Institute for Astrophysics of La Plata, Argentina)
 
 A. De Vito (Institute for Astrophysics of La Plata, Argentina)
@@ -92,8 +94,6 @@ P. Cataldi (Institute for Astronomy and Space Physics, Argentina)
 
 L. Carvalho (Institute for Astronomy and Space Physics, Argentina)
 
-P. Tissera (Pontifical Catholic University, Chile)
-
 L. Bartolomeo (Institute for Astrophysics of La Plata, Argentina)
 
 M. Echeveste (Institute for Astrophysics of La Plata, Argentina)
@@ -107,3 +107,5 @@ L. Abaroa (Argentine Institute of Radioastronomy)
 G. Escobar (University of Padova, Italy)
 
 L.J. Pellizza (Institute for Astronomy and Space Physics, Argentina)
+
+This event is organised in the context of the “Giornate CUIA 2024”. The organisers acknowledge financial support  from CUIA and from the European Research Council (ERC Consolidator grant DEMOBLACK under contract no. 770017)   for the project “Studio della formazione ed evoluzione di sistemi stellari massivi nell’Universo nell’ambito di una collaborazione Italo-Argentina”.
