@@ -7,8 +7,9 @@ sidebar:
 
 ## Rationale
 <p align="center">
-<img src="/assets/images/Galaxy_SMM_J2135-0102.jpg"  width="200" height="90">
+<img src="/assets/images/schoolSEVN.jpg"  width="400" height="150">
 </p>
+
 
 
 The understanding of the properties, formation and evolutionary channels of stellar systems comprising high-mass stars is currently at the forefront of Astrophysics. Massive stars are luminous sources of electromagnetic radiation that produce powerful massive outflows. At the end of their lives they explode as supernovae, injecting large amounts of energy into their surroundings. Those evolving in binary systems may became also luminous sources of high-energy radiation powered by accretion, and launch relativistic jets. The influence of high-mass stars in their medium is therefore strong, and occurs during their brief lifetimes, which modifies their neighborhood in a significant way.
