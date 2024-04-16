@@ -8,7 +8,7 @@ sidebar:
 
 
 <p align="center">
-<img src="/assets/images/flyer_school.jpeg"  width="200" height="90">
+<img src="/assets/images/flyer_school.jpeg"  width="400" height="180">
 </p>
 ## Rationale
 

@@ -7,7 +7,7 @@ sidebar:
 
 ## Rationale
 <p align="center">
-<img src="/assets/images/schoolSEVN.jpg"  width="400" height="150">
+<img src="/assets/images/schoolSEVN.jpg"  width="600" height="200">
 </p>
 
 
