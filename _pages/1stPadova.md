@@ -29,7 +29,7 @@ The Workshop aims to bring together researchers working in binary population syn
 <img src="/assets/images/ProgramWorkshop.jpg"  width="800" height="300">
 </p>
 
-[$${\color{red}Download Book of Abstracts}$$](https://raw.githubusercontent.com/ganegroup/ganegroup.github.io/tree/master/assets/images/AbstractBook.pdf)
+[**Download Book of Abstracts**](https://github.com/ganegroup/ganegroup.github.io/tree/master/assets/images/AbstractBook.pdf)
 
 <ins>Organizing Committee:</ins>
 
