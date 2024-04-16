@@ -26,7 +26,7 @@ The Workshop aims to bring together researchers working in binary population syn
 ## Workshop program
 
 <p align="center">
-<img src="/assets/images/Program.jpg"  width="800" height="300">
+<img src="/assets/images/ProgramWorkshop.jpg"  width="800" height="300">
 </p>
 
 
