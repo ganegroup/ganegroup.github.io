@@ -23,6 +23,13 @@ Binary population synthesis is a technique developed in the last two decades, wh
 
 The Workshop aims to bring together researchers working in binary population synthesis at Padova University with colleagues in Argentina interested in using these techniques. The main goal is to foster collaborations between groups, discussing possible joint programs to investigate high-mass stellar and binary populations and their effects on diverse systems in the Universe. A relaxed program with senior speakers in the area and plenty of time for discussion has been prepared.
 
+
+<p align="center">
+<img src="/assets/images/Program.jpg"  width="800" height="300">
+</p>
+
+
+
 <ins>Organizing Committee:</ins>
 
 
