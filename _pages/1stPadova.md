@@ -85,40 +85,6 @@ M. Bersten (Institute for Astrophysics of La Plata, Argentina)
 
 M. Mapelli (Zentrum fuer Astronomie Heidelberg, Germany)
 
-<ins>Talks:</ins>
-
-M. Lecroq (Institut d'Astrophysique de Paris, Sorbonne Université, France)
-
-G. Costa (Centre de Recherche Astrophysique de Lyon, France)
-
-F. Ursini (University of Roma Tre, Italy)
-
-M. Dall'Amico (University of Padova, Italy)
-
-B. Mestichelli (Gran Sasso Science Institute, Italy)
-
-L. Bignone (Institute for Astronomy and Space Physics, Argentina)
-
-P. Cataldi (Institute for Astronomy and Space Physics, Argentina)
-
-L. Carvalho (Institute for Astronomy and Space Physics, Argentina)
-
-L. Bartolomeo (Institute for Astrophysics of La Plata, Argentina)
-
-M. Echeveste (Institute for Astrophysics of La Plata, Argentina)
-
-F. Fogantini (Argentine Institute of Radioastronomy)
-
-F. Vivanco (Universidad Andrés Bello, Chile)
-
-L. Abaroa (Argentine Institute of Radioastronomy)
-
-G. Escobar (University of Padova, Italy)
-
-L.J. Pellizza (Institute for Astronomy and Space Physics, Argentina)
-
-## Workshop participants
-
 <p align="center">
 <img src="/assets/images/ParticipantWorkshop.jpg"  width="800" height="300">
 </p>
