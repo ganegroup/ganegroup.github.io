@@ -38,9 +38,9 @@ Gastón J. Escobar (University of Padova, co-chair, Italy)
 
 Giuliano Iorio (University of Padova, Italy)
 
-Leonardo J. Pellizza (Institute for Astronomy and Space Science, co-chair, Argentina)
+Leonardo J. Pellizza (Institute for Astronomy and Space Physics, co-chair, Argentina)
 
-Susana E. Pedrosa (Institute for Astronomy and Space Science, Argentina)
+Susana E. Pedrosa (Institute for Astronomy and Space Physics, Argentina)
 
 
 <ins>Dates:</ins>
@@ -79,7 +79,7 @@ O. Benvenuto (Institute for Astrophysics of La Plata, Argentina)
 
 A. De Vito (Institute for Astrophysics of La Plata, Argentina)
 
-L. Suad (Institute for Astronomy and Space Science, Argentina)
+L. Suad (Institute for Astronomy and Space Physics, Argentina)
 
 M. Bersten (Institute for Astrophysics of La Plata, Argentina)
 
