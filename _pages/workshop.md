@@ -47,7 +47,7 @@ May 6, 8, 9, and 10, 2024
 
 
 
-## Deciphering the Cosmic Code for Galaxy Formation"
+## Deciphering the Cosmic Code for Galaxy Formation
 
 
 <p align="center">
