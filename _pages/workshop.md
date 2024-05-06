@@ -38,7 +38,7 @@ SEVN (Stellar EVolution for N-body) is a recently developed, updated and public 
 The School aims to enhance the skills of the students in population synthesis by learning to use SEVN. It consists in lectures providing the tools to run and analyze SEVN simulations and many hands-on sessions to work on a project chosen by the student.
 
 
-<ins>Dates:</ins>
+<ins>Dates:</ins> 
 
 May 6, 8, 9, and 10, 2024
 
