@@ -7,7 +7,7 @@ sidebar:
 
 ## Rationale
 <p align="center">
-<img src="/assets/images/schoolSEVN.jpg"  width="600" height="200">
+<img src="/assets/images/schoolSEVN.jpg"  width="500">
 </p>
 
 
@@ -96,5 +96,5 @@ M. Mapelli (Zentrum fuer Astronomie Heidelberg, Germany)
 This event is organised in the context of the “Giornate CUIA 2024”. The organisers acknowledge financial support  from CUIA and from the European Research Council (ERC Consolidator grant DEMOBLACK under contract no. 770017)   for the project “Studio della formazione ed evoluzione di sistemi stellari massivi nell’Universo nell’ambito di una collaborazione Italo-Argentina”.
 
 <p align="center">
-<img src="/assets/images/workshop_picture.jpg" width="600">
+<img src="/assets/images/workshop_picture.jpg" width="800">
 </p>
